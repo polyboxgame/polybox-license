@@ -6,7 +6,7 @@ This software ("the Software") is owned and developed by Jekyllean, also known a
 Jekyllean hereby grants a non-exclusive, non-transferable license to selected individuals to use the Software for the sole purpose of developing and testing the Software in a private Github repository. The selected individuals may contribute to the Software through the private Github repository. However, the selected individuals are not authorized to share, distribute, or otherwise make the Software available to any other individual or entity outside of the private Github repository, unless specifically authorized in writing by Jekyllean.
 
 ## 2. Restrictions
-The selected individuals shall not modify, reverse-engineer, decompile, disassemble, or create derivative works based on the Software. The selected individuals are not allowed to distribute, sublicense, sell, rent, lease, or otherwise transfer the Software or any part thereof.
+The selected individuals reverse-engineer, decompile, disassemble, or create derivative works based on the Software. The selected individuals are not allowed to distribute, sublicense, sell, rent, lease, or otherwise transfer the Software or any part thereof.
 
 ## 3. Contributions
 Only the selected individuals invited by Jekyllean to the private Github repository are authorized to contribute to the Software. Contributions from any other individual or entity are not allowed, unless specifically authorized in writing by Jekyllean.
